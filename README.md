@@ -24,23 +24,36 @@
 
 **请于 2017-11-30 17:00 之前完成提交**
 
-| 组号 | Presentation | Survey | Experiment | **打印版** |
-| ---: | :---: | :---: | :---: | :---: |
-| 01 |p|s|e|√|
-| 02 |||||
-| 03 |||||
-| 04 |p||||
-| 05 |||||
-| 06 |p|s|e||
-| 07 |p|s|e||
-| 08 |p||||
-| 09 |||||
-| 10 |p||||
-| 11 |p|s|\*|√|
-| 12 |p|s|e|2/3|
-| 13 |||||
-| 14 |p|s|\*|√|
-| 15 |||||
+| 组号     | Presentation | Survey | Experiment | **打印版** |
+| :---     | :---: | :---: | :---: | :---: |
+| 01       |p|s|e|√|
+| 02       |p|s|e|√|
+| 03<sub>*4*</sub> |p|s|e<sub>2</sub>|√|
+| 04       |p|s|e|√|
+| 05       |p|s|e|√|
+| 06<sub>*2(3)*</sub> |p|s|e|√|
+| 07<sub>*4*</sub>    |p|s<sub>*2*</sub>|e|√|
+| 08<sub>*2(3)*</sub> |p|s|e|√|
+| 09       |p|s|e|√|
+| 10       |p|s|e|√|
+| 11<sub>*2*</sub>    |p|s|\*|√|
+| 12       |p|s|e|√|
+| 13       |p|s|e|√|
+| 14<sub>*2*</sub>    |p|s|\*|√|
+| 15<sub>*1*</sub>    |p|\*|\*|√|
 
-\* 2人组
+*若有特殊困难不能按时提交，请在推迟提交时说明情况，可能酌情调整评分~*
+
+## 延期参考
+
+1. [cs231n assignments](http://vision.stanford.edu/teaching/cs231n/assignments.html)
+2. [EE365: Late Policy](https://stanford.edu/class/ee365/late.html)
+3. [Late submission of Coursework](https://www2.le.ac.uk/offices/sas2/assessments/late-submission)
+4. [Penalties for Late Hand In](http://www.dcs.shef.ac.uk/intranet/teaching/public/assessment/latehandin.html)
+5. [How to Avoid Handing in Assignments Late](https://www.wikihow.com/Avoid-Handing-in-Assignments-Late)
+
+## Grace Days
+
+**1 week**
+
 
